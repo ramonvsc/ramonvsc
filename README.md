@@ -1,0 +1,5 @@
+- 👋 Olá tudo bem? Meu nome é ramon, mas sou conhecido no world developer como @ramonvsc
+- 👀 Eu tenho grande experiencia com JAVA e HTML5, e tenho interesse em diversas linguagens de programação 
+- 🌱 Nas horas vagas adoro pegar  projetos com time de desenvolvimento 
+- 💞️ Na medida do meu conhecimento eu consigo adoro agregar mais para o mundo do desenvolvimento
+- 📫 Send-me message
